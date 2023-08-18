@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 
-
-
 body {
     min-height: 2000px;
 }
@@ -82,12 +80,28 @@ nav a:hover {
     margin-top: 40px;
 }
 
+#aboutme h2 {
+    font-family: 'Lora', serif;   
+}
+
 #project {
     background-color: #E5E5CB;
 }
 
+#project h2 {
+    font-family: 'Lora', serif;   
+}
+
 #project a {
     text-decoration: none;
+}
+
+#project h5 {
+    font-family: 'Lora', serif;   
+}
+
+#project h3 {
+    font-family: 'Lora', serif;   
 }
 
 #project h5:hover {  
